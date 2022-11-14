@@ -24,11 +24,15 @@ Restrictions due to the use of the free version of the API limited the details a
 ### homepage
 <img src="./src/assets/readme/progame_home.png">
 
+### homepage with more details on hover
+<img src="./src/assets/readme/progame_home_details_hover.png>
+
 ### page detail
 
 <img src="./src/assets/readme/progame_detail.png">
 
- author of the project:
+
+ authors of the project:
 
 - [@Chreees79](https://github.com/Chreees79)
 - [@GuillaumeBrthlt](https://github.com/GuillaumeBrthlt)
