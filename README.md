@@ -19,6 +19,8 @@ Project created on React as a single page application. The goal was to create an
 You have the possibility click on the title of a game to get its details.
 Restrictions due to the use of the free version of the API limited the details available.
 
+You can see this project : "https://progame-chris-api.vercel.app"
+
 ## Preview:
 
 ### homepage
