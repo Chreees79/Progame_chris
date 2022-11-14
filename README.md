@@ -27,7 +27,7 @@ You can see this project : "https://progame-chris-api.vercel.app"
 <img src="./src/assets/readme/progame_home.png">
 
 ### homepage with more details on hover
-<img src="./src/assets/readme/progame_home_details_hover.png>
+<img src="./src/assets/readme/progame_home_details_hover.png">
 
 ### page detail
 <img src="./src/assets/readme/progame_detail.png">
