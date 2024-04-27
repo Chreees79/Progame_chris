@@ -20,7 +20,7 @@ Vous arrivez ainsi sur une page d'accueil qui vous propose une liste de jeux vid
 *Les restrictions posées par l'utilisation gratuite de l'API ne permettent pas d'avoir accès aux vidéos.*
 
 
-Vous pouvez également visiter le site web ici : "https://progame-chris-api.vercel.app"
+Vous pouvez également visiter le site web ici: https://progame-chris.vercel.app
 
 ## Prévisualisation:
 
